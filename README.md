@@ -1,4 +1,4 @@
-### Hi! I'm Robijn a Software Engineering student from Amsterdam
+### Hi!    I'm Robijn a Software Engineering student from Amsterdam
 
 - 🔭 I’m currently working on webserv (coding a simple HTTP server)
 - 🌱 I’m currently looking for an internship!
