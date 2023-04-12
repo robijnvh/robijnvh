@@ -1,6 +1,5 @@
-### Hi!    I'm Robijn a Software Engineering student from Amsterdam
+### Hi!    I'm Robijn a developer from Amsterdam
 
-- 📖 I'm studying at Codam Coding College.
-- 🔭 I’m currently working on ft_transcendence (coding a simple interactive pong website).
-- 🌱 I’m looking for an internship!
+- 📖 I studied at Codam Coding College, graduated July 2022.
+- 🔭 I’m currently a frontend developer at Foleon.
 - 💬 Ask me about anything!
